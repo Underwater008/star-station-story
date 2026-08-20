@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1787199368|1687827';
+const CACHE_VERSION = '1787209847|1769483';
 /** @type {string} */
 const CACHE_PREFIX = 'Star Station Sto-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
